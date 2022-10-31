@@ -1,0 +1,3 @@
+/Users/gco_imac_27_unity/C++/Beginer/cmake-build-debug/CMakeFiles/Beginer.dir
+/Users/gco_imac_27_unity/C++/Beginer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gco_imac_27_unity/C++/Beginer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
